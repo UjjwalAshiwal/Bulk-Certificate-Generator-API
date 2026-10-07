@@ -9,3 +9,7 @@ generated/*/*.pdf
 .pytest_cache/
 .ruff_cache/
 .DS_Store
+
+# Private owner docs (personal, never commit)
+PROJECT_GUIDE.md
+HOW_TO_MODIFY.md
